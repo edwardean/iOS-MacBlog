@@ -86,6 +86,8 @@ iOS/Mac 开发博客列表。
 
 [cocoacontrols](https://www.cocoacontrols.com/)
 
+[里脊串的开发随笔](http://adad184.com/archives/)
+
 编码规范
 =====
 [Google Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
