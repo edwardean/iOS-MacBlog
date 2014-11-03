@@ -56,6 +56,36 @@ iOS/Mac 开发博客列表。
 
 [[iOS developer:tips];](http://iosdevelopertips.com/)
 
+[http://blog.sunnyxx.com/](http://blog.sunnyxx.com/)
+
+[Chun Tips 专注iOS开发](http://chun.tips/)
+
+[iOS | KimsungWhee](http://kimsungwhee.com/category/ios/)
+
+[DiWuBlog](http://diwu.me/archives/index.html)
+
+[Alex Boyd](http://alexboyd.me/archive.html)
+
+[AppGuruz](http://www.theappguruz.com/blog/)
+
+[iOS init | iOS初学者](http://iosinit.com/)
+
+[BlackPixel](http://blackpixel.com/blog/)
+
+[iOS类别集合](http://code.tutsplus.com/categories/ios-sdk)
+
+[Use Your Loaf](http://useyourloaf.com/blog/archives/)
+
+[JaRed Sinclair](http://blog.jaredsinclair.com/)
+
+[iOS8-day-by-day](https://github.com/ShinobiControls/iOS8-day-by-day)
+
+[ShinobiControl](http://www.shinobicontrols.com/iOS8DayByDay)
+
+[100-great-resources-for-ios-developers](http://dailytekk.com/2014/02/20/100-great-resources-for-ios-developers/)
+
+[cocoacontrols](https://www.cocoacontrols.com/)
+
 编码规范
 =====
 [Google Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
