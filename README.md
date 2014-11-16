@@ -99,3 +99,5 @@ iOS/Mac 开发博客列表。
 [objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
 
 [The Code Commandments: Best Practices for Objective-C Coding (updated for ARC)](http://ironwolf.dangerousgames.com/blog/archives/913)
+
+[Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide)
