@@ -88,6 +88,8 @@ iOS/Mac 开发博客列表。
 
 [里脊串的开发随笔](http://adad184.com/archives/)
 
+[Coding Explorer Blog](http://www.codingexplorer.com/)
+
 编码规范
 =====
 [Google Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
